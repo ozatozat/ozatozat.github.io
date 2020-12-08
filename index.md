@@ -1,7 +1,8 @@
 ## Welcome to Ozan Terzi Trial Page
 Ozan Azmi Terzi
-Ozan Azmi has a account
-RWTH Aachen University
+
+RWTH Aachen University - Istanbul Technical University
+
 Aachen, North Rhine-Westphalia, Germany 
 
 

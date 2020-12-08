@@ -1,7 +1,10 @@
 ## Welcome to Ozan Terzi Trial Page
 Ozan Azmi Terzi
 
-RWTH Aachen University - Istanbul Technical University
+### Education
+
+#### RWTH Aachen University - M.Sc.
+#### Istanbul Technical University - B.Sc.
 
 Aachen, North Rhine-Westphalia, Germany 
 
